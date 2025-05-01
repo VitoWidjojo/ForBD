@@ -1,0 +1,4 @@
+org\example\ExampleDataQuery.class
+org\example\PooledDatabaseConnection.class
+org\example\SimpleDatabaseConnection.class
+org\example\HikariCPDataSource.class
